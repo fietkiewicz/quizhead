@@ -1,0 +1,13 @@
+body {text-align:center;padding:0px}
+h1 {margin:0px;margin-bottom:10px;background:#efefef;height:1em}
+
+.left-block {display:inline-block;text-align:left}
+.player-name {display:inline-block;width:10em}
+
+#msg {position:absolute;top:8px;right:8px}
+#admin {position:absolute;top:8px;left:8px}
+#db-left-col {display:inline-block;width:45%;vertical-align:top;max-height:200px}
+#db-right-col {vertical-align:top;display:inline-block; margin-left:8px;padding-left:8px;width:45%;max-height:200px}
+#game-left-col {display:inline-block;width:70%;vertical-align:top}
+#game-right-col {vertical-align:top;display:inline-block;width:10%}
+#footer{position:fixed;bottom:0px;text-align:center;width:100%}
